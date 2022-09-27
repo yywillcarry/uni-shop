@@ -21,6 +21,7 @@
             "path" : "pages/cart/cart",
             "style" :                                                                                    
             {
+              
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
@@ -34,6 +35,9 @@
             }
             
         }
+    ],
+    "requirePrivateInfos":[
+      "chooseAddress"
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
