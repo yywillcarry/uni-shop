@@ -57,8 +57,8 @@
         "usingComponents" : true,
         "permission" : {},
         "requiredPrivateInfos": [
-       "chooseAddress"
-     ]
+           "chooseAddress"
+         ]
     },
     "vueVersion" : "2"
 }
